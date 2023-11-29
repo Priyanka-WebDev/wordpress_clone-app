@@ -1,1 +1,162 @@
 
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(244, 243, 243);
+    font-family: sans-serif;
+}
+.nav{
+    background-color: rgb(40, 35, 35);
+    padding: 20px;
+    position: sticky;
+    top: 0.0px;
+}
+.nav a{
+    text-decoration: none;
+    margin: 20px;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+/* .start{
+    float: right;
+    text-align: center;
+    border: 2px solid red;
+    background-color: blue;
+    padding: 10px 19px 10px 19px;
+    border-radius: 9px;
+    margin-top: 0px;
+    align-items: center;
+} */
+.start {
+    padding: 09px 15px 09px 15px;
+    border-radius: 04px;
+    background-color: blue;
+    float: right;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+    border: 3px solid blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav2{
+    background-color: rgb(110, 196, 240);
+height: 80px;
+line-height: 65px;
+}
+.h{
+    font-size: 40px;
+    text-decoration: none;
+    color: rgb(18, 111, 157);
+}
+.nav2 a{
+    /* border: 2px solid red; */
+    margin-left: 50px;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.container{
+    /* background-color: rgb(180, 121, 239); */
+    overflow: hidden;
+    margin:50px 200px 0 200px;
+}
+/* .container i{
+    color: rgb(15, 139, 202);
+    font-size: 50px;
+    padding: 20px;
+} */
+.cont1{
+    float: left;
+    width: 30%;
+    /* color: rgb(15, 139, 202); */
+    padding: 20px;
+    height: auto;
+}
+.cont1 a{
+    color: rgb(15, 139, 202);
+
+}
+.cont1 h1{
+    font-size: 30px; 
+
+}
+.c1, .c2, .c3, .c4, .c5{
+   padding: 10px;
+    border-bottom:2px solid rgb(33, 38, 40);
+    box-shadow: 0px 0px 2px 5px solid red;
+}
+.cont2{
+    float: left;
+    width: 30%;
+    color: rgb(15, 139, 202);
+    padding: 20px;
+}
+.cont2 h4{
+    color: black;
+    font-size: 20px;
+}
+.cont3{
+    float: left;
+    width: 30%;
+    color: rgb(33, 38, 40);
+   
+}
+
+.section5{
+    /* border: 2px solid red; */
+    height: 283.5px;
+    width: 100%;
+    margin-top: 40px;
+    background-color: black;
+    color: aliceblue;
+    
+}
+.col4 h4{
+    height: 73.5px;
+    width: 611.6px;
+}
+.col4{
+    float: left;
+    width: 35%;
+    padding: 35px;
+    overflow: hidden;
+}
+.col5{
+    float: right;
+    width: 35%;
+    overflow: hidden;
+    padding: 35px;
+}
+.col4 h1{
+    padding-left: 70px;
+    font-size: 60px;
+}
+.col4 p{
+    padding-left: 70px; 
+    margin: 20px;  
+}
+.b1{
+    overflow: hidden;
+    border-top: 2px solid antiquewhite;
+    border-bottom: 1px solid antiquewhite;
+    padding: 14px 0px;
+}
+.b2{
+   
+    padding: 14px 0px;
+    border-top: 1px solid antiquewhite;
+    border-bottom: 2px solid antiquewhite;
+}
+
+/* logoooo */
+.logo i{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    padding: 8px;
+    margin-top: 10px;
+}
