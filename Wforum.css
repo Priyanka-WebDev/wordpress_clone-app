@@ -1,1 +1,183 @@
 
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: rgb(40, 35, 35);
+    padding: 20px;
+    position: sticky;
+    top: 0.0px;
+}
+.nav a{
+    text-decoration: none;
+    margin: 20px;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+/* .start{
+    float: right;
+    text-align: center;
+    border: 2px solid red;
+    background-color: blue;
+    padding: 10px 19px 10px 19px;
+    border-radius: 9px;
+    margin-top: 0px;
+    align-items: center;
+} */
+.start {
+    padding: 09px 15px 09px 15px;
+    border-radius: 04px;
+    background-color: blue;
+    float: right;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+    border: 3px solid blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav2{
+    background-color: rgb(15, 139, 202);
+    padding: 16px;
+    color: aliceblue;
+    /* position: absolute;
+    top: 60px; */
+}
+.nav2 a{
+    text-decoration: none;
+    color: aliceblue;
+    line-height:30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+}
+
+.btn i{
+    border: 2px solid rgb(8, 122, 179);
+    padding: 6px 16px 9px 16px;
+    background-color: rgb(8, 122, 179);
+}
+.s{
+    font-size: 30px;
+    text-align: center;
+}
+
+input[type=search]{
+    padding: 8px;
+}
+.container{
+    /* border: 2px solid red; */
+    overflow: hidden;
+    padding: 0;
+    width: 980px;
+    /* height: 1787px; */
+    margin: 0 auto;
+}
+.one{
+    /* border: 2px solid red; */
+    overflow: hidden;
+    margin: 60px;
+    /* width: 876px; */
+    padding: 2px;
+    border-bottom: 2px solid grey;
+}
+.cont1{
+    float: left;
+    width: 282px;
+    /* border: 2px solid rgb(153, 153, 155); */
+    height: 300px;
+    
+}
+
+.cont1 i, .cont2 i, .cont3 i{
+    font-size: 100px;
+    color: grey;
+    /* border: 2px solid red; */
+    margin:0 90px 0 90px;
+}
+.cont1 h1, .cont2 h1, .cont3 h1{
+    font-size: 30px;
+    text-align: center;
+    padding: 8px;
+}
+.cont1 p, .cont2 p, .cont3 p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.cont1 a, .cont2 a, .cont3 a{
+    /* border: 2px solid red; */
+    margin: 60px;
+    text-decoration: none;
+    color: blue;
+}
+.cont2{
+    float: left;
+    width: 282px;
+    height: 300px;
+   
+    /* border: 2px solid rgb(153, 153, 155); */
+}
+.cont3{
+    float: left;
+    width: 282px;
+    height: 300px;
+    /* border: 2px solid rgb(153, 153, 155); */
+}
+
+.section5{
+    /* border: 2px solid red; */
+    height: 283.5px;
+    width: 100%;
+    margin-top: 40px;
+    background-color: black;
+    color: aliceblue;
+    
+}
+.col4 h4{
+    height: 73.5px;
+    width: 611.6px;
+}
+.col4{
+    float: left;
+    width: 35%;
+    padding: 35px;
+    overflow: hidden;
+}
+.col5{
+    float: right;
+    width: 35%;
+    overflow: hidden;
+    padding: 35px;
+}
+.col4 h1{
+    padding-left: 70px;
+    font-size: 70px;
+}
+.col4 p{
+    padding-left: 70px; 
+    margin: 20px;  
+}
+.b1{
+    overflow: hidden;
+    border-top: 2px solid antiquewhite;
+    border-bottom: 1px solid antiquewhite;
+    padding: 14px 0px;
+}
+.b2{
+   
+    padding: 14px 0px;
+    border-top: 1px solid antiquewhite;
+    border-bottom: 2px solid antiquewhite;
+}
+
+
+/* logoooo */
+.logo i{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    padding: 8px;
+    margin-top: 10px;
+}
