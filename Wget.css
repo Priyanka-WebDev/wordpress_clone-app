@@ -1,1 +1,158 @@
 
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(244, 243, 243);
+    font-family: sans-serif;
+}
+.nav{
+    background-color: rgb(40, 35, 35);
+    padding: 20px;
+    position: sticky;
+    top: 0.0px;
+}
+.nav a{
+    text-decoration: none;
+    margin: 20px;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+/* .start{
+    float: right;
+    text-align: center;
+    border: 2px solid red;
+    background-color: blue;
+    padding: 10px 19px 10px 19px;
+    border-radius: 9px;
+    margin-top: 0px;
+    align-items: center;
+} */
+.start {
+    padding: 09px 15px 09px 15px;
+    border-radius: 04px;
+    background-color: blue;
+    float: right;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+    border: 3px solid blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/* nav222 */
+.nav2{
+    background-color: rgb(15, 139, 202);
+    padding: 16px;
+    color: aliceblue;
+    
+}
+.nav2 a{
+    text-decoration: none;
+    color: aliceblue;
+    line-height:30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 40px;
+}
+
+.nav2 a:hover{
+    text-decoration: underline;
+}
+.h{
+    font-size: 30px;
+}
+/* containerrrrrrrrrr */
+
+.container{
+    /* border: 2px solid red; */
+    overflow: hidden;
+    margin: 10px 300px;
+    line-height: 30px;
+    color: grey;
+}
+.container a{
+    color: rgb(15, 139, 202);
+}
+.cont1{
+    float: left;
+    width: 30%;
+    /* border: 2px solid blueviolet; */
+    padding: 12px;
+
+
+}
+p.b{
+    font-size: 20px;
+    font-weight: 600;
+}
+.cont2{
+    float: left;
+    width: 30%;
+    /* border: 2px solid blueviolet; */
+    padding: 12px;
+}
+.cont3{
+    float: left;
+    width: 30%;
+    /* border: 2px solid blueviolet; */
+    padding: 12px;
+}
+
+/* section5555555 */
+.section5{
+    /* border: 2px solid red; */
+    height: 283.5px;
+    width: 100%;
+    margin-top: 40px;
+    background-color: black;
+    color: aliceblue;
+    
+}
+.col4 h4{
+    height: 73.5px;
+    width: 611.6px;
+}
+.col4{
+    float: left;
+    width: 35%;
+    padding: 35px;
+    overflow: hidden;
+}
+.col5{
+    float: right;
+    width: 35%;
+    overflow: hidden;
+    padding: 35px;
+}
+.col4 h1{
+    padding-left: 70px;
+    font-size: 60px;
+}
+.col4 p{
+    padding-left: 70px; 
+    margin: 20px;  
+}
+.b1{
+    overflow: hidden;
+    border-top: 2px solid antiquewhite;
+    border-bottom: 1px solid antiquewhite;
+    padding: 14px 0px;
+}
+.b2{
+   
+    padding: 14px 0px;
+    border-top: 1px solid antiquewhite;
+    border-bottom: 2px solid antiquewhite;
+}
+
+/* logoooo */
+.logo i{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    padding: 8px;
+    margin-top: 10px;
+}
